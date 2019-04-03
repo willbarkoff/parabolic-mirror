@@ -15,6 +15,6 @@ First, download and install OpenSCAD at [openscad.org](http://openscad.org), the
 Pull requests are welcome.
 
 ## License
-© 2019 William Barkoff, Caitlin Monsky, Matteo Bertoni 
+© 2019 William Barkoff, Caitlin Monsky
 
 Licensed under the MIT license.
